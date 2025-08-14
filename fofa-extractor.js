@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         FOFA Extract Hosts
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/steven20027/tmscripts
 // @version      1.0
 // @description  Extract hosts from FOFA search result
 // @author       You
