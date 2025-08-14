@@ -56,5 +56,5 @@
     navigator.clipboard.writeText(result).then(() => {
       console.log('✅ Results copied to clipboard');
     });
-  }, 2000); // 等待页面数据加载（可改为 MutationObserver 更精确）
+  }, 5000); // 等待页面数据加载（可改为 MutationObserver 更精确）
 })();
