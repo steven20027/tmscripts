@@ -3,7 +3,7 @@
 // @namespace    https://github.com/steven20027/tmscripts
 // @version      1.0
 // @description  Extract hosts from FOFA search result
-// @author       You
+// @author       Steven
 // @match        https://fofa.info/result?qbase64=*
 // @grant        none
 // ==/UserScript==
