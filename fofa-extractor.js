@@ -25,7 +25,7 @@
 		  .filter(text => text !== '')  // 可选：去掉空字符串
 		  .filter((text, index, array) => array.indexOf(text) === index); // 去重
 
-		return result;
+		return values;
 	}
 
 	function findIps() {
@@ -41,7 +41,7 @@
 		  }
 		}
 
-		return result;
+		return texts;
 	}
 
   // 页面加载完成后执行
